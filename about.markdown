@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to my website!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm Igor, and I maintain this platform as a space to share my writings, photography, and useful information that I come across.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If you'd like to get in touch with me, the recommended method is through Signal. You can reach me at +381 63 834 03 52. Alternatively, you can also send me an email at [igorv@duck.com](mailto:igorv@duck.com).
 
+Thank you for visiting, and I hope you enjoy exploring the content on this site!
 
-[jekyll-organization]: https://github.com/jekyll

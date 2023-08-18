@@ -1,1 +1,1 @@
-# factualfossa.github.io
+Repository for my personal website at [igorv.blog](htts://igorv.blog). See *[About](htts://igorv.blog/about)* page for more information.
