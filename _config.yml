@@ -21,9 +21,7 @@
 title: Weblog by Igor V.
 email: igorv@duck.com
 description: >- # this means to ignore newlines until "baseurl:"
-  weblog: (blog) a website that contains online personal reflections, 
-  comments, and often hyperlinks, videos, and photographs 
-  provided by the writer. (Merriam-Webster Dictionary)
+  weblog - a website that contains online personal reflections (Merriam-Webster Dictionary)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
