@@ -4,7 +4,11 @@ title:  "Captura Mundi Update: Week #1"
 date:   2023-08-18 12:11:00 +0200
 categories: capturamundi photography
 ---
-Update: [Tumblr blog](https://capturamundi.blog) is [currently inactive](/_posts/2023-08-21-en-tumblr.md). 
+{% note %}
+
+**Note:** [Tumblr blog](https://capturamundi.blog) is [currently inactive](/_posts/2023-08-21-en-tumblr.md).
+
+{% endnote %}
 
 *Some of photographs I capture are more witnesses to an ever-changing world around us than anything else. Rich with details, playful with filters and imperatively spontaneus, they bring up part of my creativity that is less polished, but equally dear. You can catch up on [Tumblr](https://capturamundi.blog) or [Instagram](https://www.instagram.com/capturamundi/). Here are the latests shots I previously shared there:*
 
