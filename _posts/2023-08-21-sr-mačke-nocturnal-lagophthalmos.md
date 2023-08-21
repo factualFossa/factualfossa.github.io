@@ -4,11 +4,7 @@ title:  "Fotografije mačaka: Nocturnal Lagophthalmos"
 date:   2023-08-21 12:02:00 +0200
 categories: photography cats
 ---
-{% note %}
-
-**Note:** This page is [also available in English](/_posts/2023-08-21-en-cats-nocturnal-lagophthalmos.md).
-
-{% endnote %}
+{% include note.html content="This page is [also available in English](/_posts/2023-08-21-en-cats-nocturnal-lagophthalmos.md)." %}
 
 Lagoftalmus (*lat. nocturnal lagophthalmus*) "ili nepotpuno zatvaranje očnog kapka je patološko stanje u prednjem segnetu oka koje se karakteriše nemogućnošću zatvaranja očnih kapaka", [kaže Vikipedija na srpskom](https://sr.wikipedia.org/wiki/Lagoftalmus) i nastavlja jednostavnim jezikom da objašnjava: 
 
