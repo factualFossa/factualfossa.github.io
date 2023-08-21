@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cats Photography: Nocturnal Lagophthalmos"
-date:   2023-08-21 11:27:00 +0200
+date:   2023-08-21 12:02:00 +0200
 categories: photography cats
 ---
 
