@@ -4,7 +4,7 @@ title:  "Cats Photography: Nocturnal Lagophthalmos"
 date:   2023-08-21 12:02:00 +0200
 categories: photography cats
 ---
-{% include note.html content="Ova stranica je [dostupna i na srpskom jeziku](/_posts/2023-08-21-sr-mačke-nocturnal-lagophthalmos.md)." %}
+{% include note.html content="Ova stranica je [dostupna i na srpskom jeziku](/_posts/2023-08-21-sr-macke-nocturnal-lagophthalmos.md)." %}
 
 "Nocturnal Lagophthalmos is the inability to close the eyelids during sleep", [says Wikipedia](https://en.wikipedia.org/wiki/Lagophthalmos). "It may reduce the quality of sleep, cause exposure-related symptoms or, if severe, cause corneal damage." 
 
