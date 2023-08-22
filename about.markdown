@@ -16,3 +16,7 @@ You can also DM me over at [Instagram](https://www.instagram.com/capturamundi/),
 
 ### Supporting this site  
 Thank you for visiting, and I hope you enjoy exploring the content on this site. If you are able, please consider supporting me by [buying me a coffee](https://www.buymeacoffee.com/igorv42), it would mean a lot.
+
+There are also addresses for cryptocurrencies below, if you prefer that method:
+- Bitcoin `bc1qunz897u8krwp5wm9uxp77yud6hk9e0kxaudkwq`
+- Monero `49z7bnxs5pUQS4dzdJUgAxXDk9D6UDNqLKEhzDtD8fU6NmjWH8t6UfmAo3NbDtXf6tZm9u85KzZ9NgQZPjRBDiCiPdsvNLJ`
