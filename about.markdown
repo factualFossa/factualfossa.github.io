@@ -18,7 +18,7 @@ You can also DM me over at [Instagram](https://www.instagram.com/capturamundi/) 
 
 ### Supporting my work  
 
-Thank you for visiting! Work shared here is made with love. I am not doing it for the sake of profit, but if you find it useful, I would appreciate your support. At the end, money and gifts are powerful motivators, right? Or you can simply say hi, that would be even better!
+Thank you for visiting! Work shared here is made with love. I am not doing it for the sake of profit, but if you find it useful, I would appreciate your support. At the end, money and gifts are powerful motivators, right? Or you can simply [say hi](#contact), that would be even better!
 
 - [Buying me a cup of coffee](https://www.buymeacoffee.com/igorv42)
 
