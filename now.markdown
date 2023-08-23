@@ -1,10 +1,12 @@
 ---
-layout: post
-title:  "Projects"
-date:   2023-08-23 08:11:00 +0200
-categories: capturamundi photography
+layout: page
+title: Now
+permalink: /now/
 ---
-Here is a list of projects I am currently involved in. Please note that some projects are *active*, while others may be *inactive*, temporarily abandoned for various reasons. Additionally, projects labeled as *"experimental"* are ones I am pursuing without overthinking, allowing for trial and error.
+
+## What I am doing right now
+
+Here is a list of projects I am currently involved in. Please note that some of them are *active*, while others may be *inactive*, temporarily abandoned for various reasons. Additionally, projects labeled as *"experimental"* are ones I am pursuing without overthinking, allowing for trial and error.
 
 ### Active
 
