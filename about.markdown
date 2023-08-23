@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Welcome to my website
 
-I'm Igor, and I maintain this platform as a space to share my writings, photography, and useful information that I come across.
+I'm Igor, and I maintain this platform as a space to share my writings, photography, and useful information that I come across. I recommend you start with the [Now page](/now.md), which is a good introduction to what I'm up to at the moment.
 
 ### Contact
 
