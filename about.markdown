@@ -14,7 +14,7 @@ If you'd like to get in touch with me, the recommended methods are through app [
 
 ![contact](/media/tel.jpg)
 
-You can also DM me over at [Instagram](https://www.instagram.com/capturamundi/) or [Tumblr](https://capturamundi.blog/), but I can't promise I'll answer in a timely manner.
+You can also DM me over at [Instagram](https://www.instagram.com/igorv.blog/), but I can't promise I'll answer in a timely manner.
 
 ### Supporting my work  
 
