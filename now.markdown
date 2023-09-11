@@ -6,6 +6,13 @@ permalink: /now/
 
 ## What I am doing right now
 
+- Playing Path of Exile on Sony PlayStation 4;
+- Reading Dune by Frank Herbert
+- Listening to Taylor Swift's "Midnights", Red Hot Chili Peppers' "The Getaway", Metallica's "Death Magnetic" and getting to know Paramore;
+- Watching Euphoria on HBO;
+
+----
+
 Here is a list of projects I am currently involved in. Please note that some of them are *active*, while others may be *inactive*, temporarily abandoned for various reasons. Additionally, projects labeled as *"experimental"* are ones I am pursuing without overthinking, allowing for trial and error.
 
 ### Active
