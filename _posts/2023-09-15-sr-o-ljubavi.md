@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "O ljubavi"
-date:   2023-09-15 09:25:00
+date:   2023-09-15 08:00:00 +0200
 categories: writings
 ---
 
