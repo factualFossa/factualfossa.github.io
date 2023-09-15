@@ -7,9 +7,8 @@ permalink: /now/
 ## What I am doing right now
 
 - Playing Path of Exile on Sony PlayStation 4;
-- Reading Dune by Frank Herbert
+- Reading Dune by Frank Herbert;
 - Listening to Taylor Swift's "Midnights", Red Hot Chili Peppers' "The Getaway", Metallica's "Death Magnetic" and getting to know Paramore;
-- Watching Euphoria on HBO;
 
 ----
 
