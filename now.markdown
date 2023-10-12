@@ -4,11 +4,11 @@ title: Now
 permalink: /now/
 ---
 
-## What I am doing right now
+## What am I doing right now
 
-- Playing Path of Exile on Sony PlayStation 4;
-- Reading Dune by Frank Herbert;
-- Listening to Taylor Swift's "Midnights", Red Hot Chili Peppers' "The Getaway", Metallica's "Death Magnetic" and getting to know Paramore;
+- Games: Path of Exile on PlayStation 4;
+- Books: "Prokleta avlija", Ivo Andrić; "Iskra života", Erich Maria Remarque;
+- Music:[Radio Paradise](https://radioparadise.com); Stabat Mater, Pergolesi
 
 ----
 
