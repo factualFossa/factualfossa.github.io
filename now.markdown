@@ -6,6 +6,7 @@ permalink: /now/
 
 ## What am I doing right now
 
+- Movies and TV: Past Lives (2023)
 - Games: Path of Exile on PlayStation 4;
 - Books: "Prokleta avlija", Ivo Andrić; "Iskra života", Erich Maria Remarque;
 - Music:[Radio Paradise](https://radioparadise.com); Stabat Mater, Pergolesi
