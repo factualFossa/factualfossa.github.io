@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Lista
-permalink: /list/
+permalink: /lista/
 ---
 
-# Ovo su liste onog što sam čitao, video ili slušao, a svidelo mi se toliko da moram da preporučim. Raspored je slučajan, a spisak će vremenom rasti.
+## Ovo su liste onog što sam čitao, video ili slušao, a svidelo mi se toliko da moram da preporučim. Raspored je slučajan, a spisak će vremenom rasti.
 
-## Filmovi i serije
+### Filmovi i serije
 - "Hannah and Her Sisters" (1986)
 - "I Know This Much Is True" (2020)
 - "A Spy Among Friends" (2022)
@@ -19,9 +19,9 @@ permalink: /list/
 - "The English" (2022)
 - "La Haine" (1995)
 
-## Muzika
+### Muzika
 - album "Fear Inocolum" (2019), Tool
 - album "The Getaway" (2016), Red Hot Chili Peppers
 
-## Knjige
+### Knjige
 - "Prokleta avlija"; Ivo Andrić
