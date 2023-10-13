@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fotografije mačaka: Nocturnal Lagophthalmos"
+title:  "Fotografije: Nocturnal Lagophthalmos"
 date:   2023-08-21 12:02:00 +0200
 categories: fotografija
 ---
