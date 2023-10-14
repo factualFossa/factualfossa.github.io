@@ -15,8 +15,3 @@ Preporučujem aplikaciju [Signal](https://signal.org/) ili imejl. Ovo su moji br
 ![contact](/media/tel.jpg)
 
 Koristim [Instagram](https://www.instagram.com/igorv.blog/) i [Tumblr](https://capturamundi.blog), ali ne mogu da obećam da ću blagovremeno odgovoriti.
-
-### Podrška 
-
-Pre svega, hvala na poseti! Rad koji delim ovde je napravljen sa mnogo pažnje i ljubavi. Ako želite, možete da mi, na primer, [kupite kafu](https://www.buymeacoffee.com/igorv42) ili jednostavno [pošaljete poruku](#kontakt), što bi bilo još bolje!
-
