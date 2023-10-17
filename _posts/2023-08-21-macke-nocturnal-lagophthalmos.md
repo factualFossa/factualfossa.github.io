@@ -11,4 +11,4 @@ Lagoftalmus (*lat. nocturnal lagophthalmus*) "ili nepotpuno zatvaranje očnog ka
 
 Ne i za mačke, ne haju one za lagoftalmični keratitis, odnosno keratokonjuktivitis. Spavaju (polu)otvorenim očima kako bi uočile potencijalne opasnosti. Kojih, u našem stanu, verujem, nema. Zato ovu pojavu smatram oblikom neuroze.
 
-![Nocturnal Lagophthalmos](/media/230820-154228-9e6f2a43-DSC_2642.jpg)
+![Nocturnal Lagophthalmos](/a/230820-154228-9e6f2a43-DSC_2642.jpg)

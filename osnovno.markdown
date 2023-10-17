@@ -12,6 +12,6 @@ Ime je Igor. Ovo je platforma koju održavam kao centralno mesto gde delim svoja
 
 Preporučujem aplikaciju [Signal](https://signal.org/) ili imejl. Ovo su moji brojevi i adrese, lični i poslovni.
 
-![contact](/media/tel.jpg)
+![contact](/a/tel.jpg)
 
-Na internetu sam [i na drugim mestima](/_additionals/l.md/), ali ne mogu da obećam da ću tamo odgovoriti blagovremeno.
+Na internetu sam [i na drugim mestima](/a/l.md/), ali ne mogu da obećam da ću tamo odgovoriti blagovremeno.
