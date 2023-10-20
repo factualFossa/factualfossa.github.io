@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Knjige: "Iskra života", Erih Marija Remark'
-date:   2023-10-15 08:00:00 +0200
+date:   2023-10-19 08:00:00 +0200
 categories: pisanja
 ---
 
