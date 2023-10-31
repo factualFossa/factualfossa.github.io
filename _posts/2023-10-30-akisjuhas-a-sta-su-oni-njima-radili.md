@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'A. Kišjuhas: "A šta su oni njima radili?"'
+title:  "A. Kišjuhas: A šta su oni njima radili?"
 date:   2023-10-30 08:00:00 +0200
 categories: prepisi
 ---
