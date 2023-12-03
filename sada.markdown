@@ -7,7 +7,7 @@ permalink: /sada/
 ## Šta radim trenutno
 
 - Filmovi i serije:
-  - "Better Call Saul" (2015)
+  - "Better Call Saul" (2015), druga sezona
   - "Rick and Morty" (2013), sedma sezona
 
 - Igre:
