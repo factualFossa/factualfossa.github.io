@@ -11,9 +11,10 @@ permalink: /sada/
   - "Rick and Morty" (2013), sedma sezona
 
 - Igre:
-  - "Path of Exile", PlayStation 4 ([YouTube snimci uživo](https://www.youtube.com/@factual_fossa/streams))
+  - "Path of Exile", PlayStation 4 
   - "GRIS", PlayStation 4
   - "Far: Lone Sails", PlayStation 4
+  - "The Vanishing of Ethan Carter", PlayStation 4
   
 - Knjige:
   - "Kroz prstohvat cimeta", Aleksandra Mihajlović
