@@ -12,7 +12,7 @@ permalink: /sada/
   - "Apolonia, Apolonia" (2022)
 
 - Igre:
-  - "Path of Exile", PlayStation 4 
+  - "Path of Exile: Affliction", PlayStation 4 
   - "GRIS", PlayStation 4
   - "Far: Lone Sails", PlayStation 4
   - "The Vanishing of Ethan Carter", PlayStation 4
