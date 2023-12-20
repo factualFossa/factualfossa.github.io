@@ -8,9 +8,19 @@ Ovo su liste onog što sam čitao, video ili slušao, a svidelo mi se toliko da 
 
 ### Filmovi i serije
   - "Apolonia, Apolonia" (2022)
+  - "Land" (2021)
+  - "The Conspiracy" (2001)
+  - "Causeway" (2022)
 
 ### Muzika
 - album "Fear Inocolum" (2019), Tool
 
 ### Knjige
 - "Prokleta avlija", Ivo Andrić
+
+### Igre
+- "The Vanishing of Ethan Carter" (2014)
+- "Path of Exile" (2013)
+- "Inside" (2016)
+- "Hellblade: Senua's Sacrifice" (2017)
+- "Last Day of June" (2017)
