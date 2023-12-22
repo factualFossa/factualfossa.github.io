@@ -11,7 +11,7 @@ Antonina, moja sestra, je birala temu za ovaj tekst. Rekla je da želi da čita 
 
 ![dečak sa rancem gleda ispred sebe zamišljeno, okružen nejasnim licima](/a/jana-bff1.png)
 
-*Nacrtala Jana (@janacandraw)*
+*Nacrtala Jana ([@janacandraw](https://www.instagram.com/janacandraw/))*
 
 Nisam ljubomoran (više), već se trudim da naučim nešto iz vrtloga koji zovemo odrastanje i koji je mene odveo na jedan put, a Antoninu na drugi, populaciono daleko brojniji. Broj ljudi koje smatram prijateljima je manji od broja ljudi koji sestra sretne u liftu kada krene na posao. Lift jeste poveći, ali opet...
 
@@ -27,7 +27,7 @@ Ukapirao sam ove dve lekcije baš zahvaljujući svojoj sestri (i evo je opet). N
 
 ![dečak sa rancem gleda u devojku koja ga drži za rame ohrabrujući ga, dok su sada oboje okruženi jasno vidljivim licima drugih ljudi](/a/jana-bff2.png)
 
-*Nacrtala Jana (@janacandraw)*
+*Nacrtala Jana ([@janacandraw](https://www.instagram.com/janacandraw/))*
 
 I sa njom sam pokazao da mogu da budem jako destruktivan, jer sam slušao pre svoj ego nego nju i njene potrebe, ali sam imao sreće da poseduje kvalitete koje sam pomenuo. Naučila me je da cenim činjenicu da neko postoji u našim životima i koliko je to veliko čudo našeg postojanja na ovom svetu. Mi smo rođeni bez naše volje, došli na ovaj svet potpuno nepripremljeni i imali sreće da naiđemo na nekog ko će nas držati za ruku.
 
@@ -45,4 +45,4 @@ Biti dobar prema sebi je suština. Biti dobar prema drugima je imperativ.
 
 ---
 
-Hvala na odvojenom vremenu. Tekst će biti objavljen uskoro i na [blogu "Misli boje"](URL SUBSTACK) na platformi Substack. Tamo možeš da nađeš više detalja o tome kako da pomogneš novčano blogu, odnosno ljudima koji su učestovali u nastanku ovog teksta.
+Hvala na odvojenom vremenu. Tekst će biti objavljen uskoro i na [blogu "Misli boje"](https://misliboje.substack.com/p/o-prijateljstvu) na platformi Substack. Tamo možeš da nađeš više detalja o tome kako da pomogneš novčano blogu, odnosno ljudima koji su učestovali u nastanku ovog teksta.
