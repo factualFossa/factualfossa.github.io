@@ -9,6 +9,10 @@ Antonina, moja sestra, je birala temu za ovaj tekst. Rekla je da želi da čita 
 
 Šta ja da pišem o prijateljstvu? U poređenju sa njom, ja sam jako usamljen što se broja prijatelja tiče. Antonina je oduvek bila čoporativna, kul lik kome treba više sati da prođe kroz šetalište, jer se svaka druga osoba pozdravlja sa njom. Ja obično stojim sa strane i smeškam se. Ne poznaju me ljudi koliko nju - najviše profitiram kad se predstavljam. Moje ime im ne zvuči poznato, ali me znaju kad kažem čiji sam. Nisam Igor, već Antoninin brat koji se zove Igor.
 
+![dečak sa rancem gleda ispred sebe zamišljeno, okružen nejasnim licima](/a/jana-bff1.png)
+
+*Nacrtala Jana (@janacandraw)*
+
 Nisam ljubomoran (više), već se trudim da naučim nešto iz vrtloga koji zovemo odrastanje i koji je mene odveo na jedan put, a Antoninu na drugi, populaciono daleko brojniji. Broj ljudi koje smatram prijateljima je manji od broja ljudi koji sestra sretne u liftu kada krene na posao. Lift jeste poveći, ali opet...
 
 Da se razumemo, ne smatram to nedostatkom (Pozdrav za sve povučene mlade ljude koji kubure sa socijalizacijom!), već spletom okolnosti i mojih potreba. Antonina je, jednostavno rečeno, drugačija.
