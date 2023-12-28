@@ -21,6 +21,10 @@ Vremenom je naučio da se penje na visine iznad 15 centimetara. Danas se penje n
 
 Stav koji delimo mi laici oko njega, kao i njegov veterinar, jeste da je u pitanju neki neurološki poremećaj. I to je precizna dijagnoza s obzirom na zapećak u kom se nalazi veterina kod nas. Da li će njegovo stanje ostati prvenstveno smešno, ali ne i fatalno, ne znamo. Posle toliko padova zbog loše koordinacije u prostoru bilo bi očekivano da se trenutno stanje samo pogorša. Više je puta udario glavom o podove, zidove i vrata nego što je očekivano za jednu mačku. Daleko više. 
 
+![Crtež mačke, sa glavom obavijenom parom ruku, obojeno drvenim bojicama, sa srcima svih strana.](/a/n1.jpg)
+
+*Nacrtala Ada Vera Petković ([@marmeladavera](https://www.instagram.com/marmeladavera/))*
+
 Ali ustane, majku mu, ustane svaki put i nastavi da se dernja isto kao i prvi put. Zaputio se negde i nijedan defektan nerv ga neće spasiti. On se mazi, on traži pažnju, on patrolira stanom i glavni je u čoporu koji broji njega i još jednu, duplo veću, crnu mačku.
 
 Ono što je svakog dana očigledno jeste da je srećan, po merilima koje upotrebljavamo na životinjama. To sam i veterinaru rekao: "Brate, vidiš da je srećan, iako je gluv? Zar život nije fascinantan?"
