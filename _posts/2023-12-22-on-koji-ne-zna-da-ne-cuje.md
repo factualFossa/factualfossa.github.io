@@ -57,4 +57,4 @@ Bilo bi poželjno da, uz neku jutarnju kafu, izaberemo šta nam tog dana hoće b
 
 ---
 
-Hvala na odvojenom vremenu. Tekst će biti objavljen uskoro i na [blogu "Misli boje"](#############) na platformi Substack. Tamo možeš da nađeš više detalja o tome kako da pomogneš novčano blogu, odnosno ljudima koji su učestovali u nastanku ovog teksta.
+Hvala na odvojenom vremenu. Tekst će biti objavljen uskoro i na [blogu "Misli boje"](misliboje.substack.com) na platformi Substack. Tamo možeš da nađeš više detalja o tome kako da pomogneš novčano blogu, odnosno ljudima koji su učestovali u nastanku ovog teksta.
