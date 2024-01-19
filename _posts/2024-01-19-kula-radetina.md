@@ -19,7 +19,7 @@ Da se razumemo, ništa nije primamljivije od tapšanja po ramenu, bar meni, što
 Godinama je Dževad bio među klasičnima koje nikad nisam pročitao, ali uredno čuvao. Ako bi me neko pitao, a nije, ja bih svakako pomenuo s vremena na vreme kakvu to knjigu imam. Još ne bih znao kakvu, ali sigurno jako bitnu i neizostavnu, čim je tako apstraktna i meni nerazumljiva.
 
 ![Rezultat generativnog vizuelnog modela "Midjourney" koji apstraktno prikazuje više ljudskih figura obučenih u plavo kako, nalik plesu, se kreću u slučajnim smerovima, okruženi talasima, sa jednom figurom koja se izdvaja po svom žutom ogrtaču.](/a/kr.png)
-*Stvorio ([Midjourney](https://www.midjourney.com/))*
+*Stvorio [Midjourney](https://www.midjourney.com/).*
 
 Možete da zamislite moj šok kada, ni sa dvadeset godina, u drugom pokušaju čitanja, nisam uspeo ništa da razumem. Listovi u i dalje bili irantni, knjiga je bila i dalje stara, iz davno prošlog vremena. Meni se stvarno više nisu čitali prokomunistički romani, koliki god klasici bili. Zato sam rešio da Dževadovo delo okačim redom i na "Limundo" i "Kupindo" i "Kupujemprodajem" i svaki drugi takav sajt.
 
