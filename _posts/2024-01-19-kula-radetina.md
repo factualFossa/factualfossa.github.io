@@ -14,7 +14,7 @@ Igor je dobio "Kulu Radetinu", šta god ona bila i ko god taj Radeta bio. Posvet
 
 Pokušao sam da pročitam knjigu odmah, naravno. Ništa nisam razumeo. Bila je zbunjujuća zbog dijalekta, bila je nerazumljiva zbog tematike, bila je iritantna zbog žutila starog papira. I ko je, koj moj, taj Dževad? 
 
-Da se razumemo, ništa nije primamljivije od tapšanja po ramenu, bar meni, što je boljka koju vučem i ovako mator. Zato je bilo bitnije što mi je *takva* knjiga data, toliko apstraktna da je i sam ne razumem. To što je *ja* ne razumem je manje bitno, valjda i očekivano od klinca, bitno je što su *oni* smatrali da zaslužujem takvo delo, a devojčica iz odeljenja maltene slikovnicu.
+Da se razumemo, ništa nije primamljivije od tapšanja po ramenu, bar meni, što je boljka koju vučem i ovako mator. Zato je bilo bitnije što mi je _takva* knjiga data, toliko apstraktna da je i sam ne razumem. To što je *ja* ne razumem je manje bitno, valjda i očekivano od klinca, bitno je što su *oni* smatrali da zaslužujem takvo delo, a devojčica iz odeljenja maltene slikovnicu.
 
 Godinama je Dževad bio među klasičnima koje nikad nisam pročitao, ali uredno čuvao. Ako bi me neko pitao, a nije, ja bih svakako pomenuo s vremena na vreme kakvu to knjigu imam. Još ne bih znao kakvu, ali sigurno jako bitnu i neizostavnu, čim je tako apstraktna i meni nerazumljiva.
 
@@ -43,7 +43,7 @@ Ta misao me je navela na ideju da "Kulu" digitalizujem, jer mi je bilo neshvatlj
 
 ---
 
-[Dževad Sabljaković](dz.sabljakovic.com/o-nama/), rođen u Beogradu 1939. godine, je novinar, pisac i nekadašnji urednik i voditelj emisija iz kulture. Živi u Parizu. Autor je romana "Kako ubiti gospodina Frojda" i "Omaha", kao i zbirki pripovedaka "Kula Radetina" i "Oni".
+Gospodin [Dževad Sabljaković](dz.sabljakovic.com/o-nama/), rođen u Beogradu 1939. godine, je novinar, pisac i nekadašnji urednik i voditelj emisija iz kulture. Živi u Parizu. Autor je romana "Kako ubiti gospodina Frojda" i "Omaha", kao i zbirki pripovedaka "Kula Radetina" i "Oni".
 
 [Kula Radetina](bs.wikipedia.org/wiki/Radetina_Kula) je nacionalni spomenik Bosne i Hercegovine, u blizini mesta Cazin. Nekadašnji je [deo odbrambenog sistema](ckt.ba/kula-radetina) Ugarske i Habzburške monarhije.
 
