@@ -45,7 +45,7 @@ Ta misao me je navela na ideju da "Kulu" digitalizujem, jer mi je bilo neshvatlj
 
 Gospodin [Dževad Sabljaković](dz.sabljakovic.com/o-nama/), rođen u Beogradu 1939. godine, je novinar, pisac i nekadašnji urednik i voditelj emisija iz kulture. Živi u Parizu. Autor je romana "Kako ubiti gospodina Frojda" i "Omaha", kao i zbirki pripovedaka "Kula Radetina" i "Oni".
 
-[Kula Radetina](bs.wikipedia.org/wiki/Radetina_Kula) je nacionalni spomenik Bosne i Hercegovine, u blizini mesta Cazin. Nekadašnji je [deo odbrambenog sistema](ckt.ba/kula-radetina) Ugarske i Habzburške monarhije.
+[Kula Radetina](bs.wikipedia.org/wiki/Radetina_Kula) je nacionalni spomenik Bosne i Hercegovine, u blizini mesta Cazin. Nekadašnji je deo odbrambenog sistema Ugarske i Habzburške monarhije.
 
 Digitalizacija "Kule Radetine" je deo dugogodišnjeg projekta o kojem ću uskoro više pisati na [svom blogu](igorv.blog).
 
