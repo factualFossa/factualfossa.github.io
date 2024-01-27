@@ -8,6 +8,7 @@ Ovo su liste onog što sam čitao, video ili slušao, a svidelo mi se toliko da 
 
 ### Filmovi i serije
 
+- "Deadwood" (2004)
 - "Apolonia, Apolonia" (2022)
 - "The Conspiracy" (2001)
 - "Causeway" (2022)
