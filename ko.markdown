@@ -6,6 +6,8 @@ permalink: /ko/
 
 Ime je Igor. 
 
-Pišem i fotografišem.
+Pišem, čitam, slušam, gledam i fotografišem.
 
 Koristim [Signal](https://signal.org/) (`amsterdam.33`).
+
+Imejl je [`nova` + `at` +  ovaj domen]. 
