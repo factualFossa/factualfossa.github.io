@@ -12,4 +12,4 @@ Koristim [Signal](https://signal.org/) (`amsterdam.33`).
 
 Imejl je [`nova` + `at` +  ovaj domen]. 
 
-Otisak moj PGP javnog ključa je `
+Otisak moj PGP [javnog ključa](assets/IgorV..asc) je `57428952f4e3693ca7574cb1972fc7d19211962d`.
