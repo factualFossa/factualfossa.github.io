@@ -10,6 +10,7 @@ permalink: /lista/
 
 - "Deadwood" (2004)
 - "Apolonia, Apolonia" (2022)
+- "Breaking Bad" (2008)
 
 ### Muzika
 
