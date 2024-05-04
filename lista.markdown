@@ -16,6 +16,7 @@ permalink: /lista/
 - "Fear Inocolum" (2019), Tool
 - ["Radio Paradise"](https://radioparadise.com)
 - "Giorgio by Moroder", Daft Punk
+- "Knights of Cydonia, Live at Rome Olympic Stadium", Muse
 
 ### Knjige
 
