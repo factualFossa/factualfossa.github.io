@@ -8,8 +8,8 @@ Ime je Igor.
 
 Pišem, čitam, slušam, gledam i fotografišem.
 
-Koristim [Signal](https://signal.org/) (`amsterdam.33`).
+[Signal](https://signal.org/): `amsterdam.33`
 
-Imejl je [`nova` + `at` +  ovaj domen]. 
+email: `nova`+`at`+`igorv.blog`
 
-Otisak mog [ključa](/assets/pub-igorv.asc) je `57428952f4e3693ca7574cb1972fc7d19211962d`.
+PGP [key](/assets/pub-igorv.asc): `57428952f4e3693ca7574cb1972fc7d19211962d`
