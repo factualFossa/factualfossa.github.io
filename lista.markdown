@@ -18,6 +18,8 @@ permalink: /lista/
 - ["Radio Paradise"](https://radioparadise.com)
 - "Giorgio by Moroder", Daft Punk
 - "Knights of Cydonia, Live at Rome Olympic Stadium", Muse
+- "Fear a Bhàta", Christy-Lyn ([Bandcamp page](https://christylynmusic.bandcamp.com/album/soir-e))
+- "Volim, ja volim", Endi Marej ([Bandcamp page](https://endimarej.bandcamp.com/album/endi-marej-i-lageri-sezone))
 
 ### Knjige
 
